@@ -7,3 +7,9 @@
 ## 📃 O que nós temos
 
 Uma coleção de EPs de anos antigos, bem como resumos e links úteis na pasta ```Resumos/```.
+
+## ❗️ Disclaimer ❗️
+
+**NÃO COMPRE EP!**
+
+Esse repositório serve para a organização de conteúdo de anos passados, não queremos de forma alguma incentivar ou facilitar o plágio.
