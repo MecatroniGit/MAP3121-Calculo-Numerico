@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+.pyc
+screenlog*
+*.npy
+file*
+*.csv
+*.zip
