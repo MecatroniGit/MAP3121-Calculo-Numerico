@@ -1,0 +1,4 @@
+EP feito em python 3.6
+Bibliotecas: numpy e time 
+Colocar todos os scripts na mesma pasta que os arquivos de dados quando for executar.
+A main fornece duas opcoes ao usuario, que redirecionam para um dos outros dois scripts.
